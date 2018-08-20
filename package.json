@@ -11,10 +11,10 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/landing-page",
+    "homepage": "https://holidayvillaplayaflamencaspain.github.io/home/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-landing-page/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/holidayvillaplayaflamencaspain/home/issues",
+        "email": ""
     },
     "license": "MIT",
     "author": "Start Bootstrap",
@@ -24,7 +24,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/holidayvillaplayaflamencaspain/home"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "~5.2.0",
