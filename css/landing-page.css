@@ -35,10 +35,6 @@ h6 {
   background-color: #555;
 }
 
-.calendar-container .subscribe-image {
-  display: none !important;
-}
-
 header.masthead {
   position: relative;
   background: url("../img/28773776648_19e92ed95e_k.jpg") no-repeat center center;
