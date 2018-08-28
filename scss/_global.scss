@@ -36,11 +36,19 @@ h6 {
   background-color: #555;
 }
 
+@media (min-width: 900px) {
+  .googleCalendar{
+    position: relative;
+    height: 0;
+    width: 90%;
+    padding-bottom: 50% !important;
+  }
+}
 .googleCalendar{
   position: relative;
   height: 0;
-  width: 80%;
-  padding-bottom: 50%;
+  //width: 100%;
+  padding-bottom: 80%;
 }
 
 .googleCalendar iframe{
